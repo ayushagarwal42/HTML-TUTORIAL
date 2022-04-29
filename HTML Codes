@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+</head>
+
+<body>
+    <h1>Hello World!</h1>
+    <p>Today I am learning HTML</p>
+    <hr>
+    <h1>hey there</h1>
+    <h2>hey there</h2>
+    <h3>hey there</h3>
+    <h4>hey there</h4>
+    <h5>hey there</h5>
+    <h6>hey there</h6>
+    <hr>
+    <p>hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey
+        there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey
+        there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey
+        there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey
+        there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey
+        there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey there hey
+        there hey there hey there hey
+        there hey there hey there</p>
+    <hr>
+    <a href="https://www.google.com/" target="_main">Google</a>
+    <hr>
+    <a href="https://www.google.com/" target="_main"><img src="google logo.png" alt="Google" width="10%" /></a>
+    <hr>
+    <img src="https://images.unsplash.com/photo-1520453803296-c39eabe2dab4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&w=1000&q=80"
+        alt="hello" width="100">
+    <hr>
+    <p>hey<br>there</p>
+    <hr>
+    <b>hey there</b>
+    <hr>
+    <i>hey there</i>
+    <hr>
+    <u>hey there</u>
+    <hr>
+    <big>hey there</big>
+    <hr>
+    <small>hey there</small>
+    <hr>
+    <p>H<sub>2</sub>O</p>
+    <hr>
+    <p>A<sup>n</sup> + B</p>
+    <hr>
+    <pre>Used to display text as it is (without ignoring spaces & next line)
+        hey
+        ayush
+        are u happy with this course
+    </pre>
+    <hr>
+    <header>
+        <h1>My Portfolio</h1>
+    </header>
+    <main>
+        <section>Education : IMSEC B.Tech(CSE) | School : St.Georges college</section>
+        <section>Experience : Data Analysis | AWS S3 | ASL</section>
+        <article>My Story:</article>
+        <aside>this is an ad</aside>
+
+        <div>
+            <p>Hello World</p>
+        </div>
+        <span>namaste</span>
+        <ul>
+            <li>Apple</li>
+            <ul>
+                <li>color:red</li>
+                <li>season:winters</li>
+            </ul>
+
+            <li>Mango</li>
+            <ul>
+                <li>color:yellow</li>
+                <li>season:summers</li>
+            </ul>
+
+            <li>Litchi</li>
+            <ul>
+                <li>color:white</li>
+                <li>season:summers</li>
+            </ul>
+        </ul>
+        <ol>
+            <li>Apple</li>
+            <ul>
+                <li>color:red</li>
+                <li>season:winters</li>
+            </ul>
+
+            <li>Mango</li>
+            <ul>
+                <li>color:yellow</li>
+                <li>season:summers</li>
+            </ul>
+
+            <li>Litchi</li>
+            <ul>
+                <li>color:white</li>
+                <li>season:summers</li>
+            </ul>
+        </ol>
+    </main>
+    <table>
+        <caption>Student Data</caption>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>RollNo.</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Ayush Agarwal</td>
+            <td>1901430100051</td>
+        </tr>
+
+        <tr>
+            <td>Bibhas Chandra Gupta</td>
+            <td>1901430100060</td>
+        </tr>
+
+        <tr>
+            <td>Ayushmaan Sahu</td>
+            <td>1901430100055</td>
+        </tr>
+        </tbody>
+    </table>
+    <table>
+        <caption>Student Updated Data</caption>
+        <thead>
+        <tr>
+            <th colspan="2">INFORMATION</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Ayush Agarwal</td>
+            <td>1901430100051</td>
+        </tr>
+
+        <tr>
+            <td>Bibhas Chandra Gupta</td>
+            <td>1901430100060</td>
+        </tr>
+
+        <tr>
+            <td>Ayushmaan Sahu</td>
+            <td>1901430100055</td>
+        </tr>
+        </tbody>
+    </table>
+
+    <form action="/action.php">
+        <input type="text" placeholder="username">
+        <input type="password" placeholder="password">
+    </form>
+    <footer>
+        <h3>contact me at ayushagarwalds12@gmail.com</h3>
+    </footer>
+</body>
+
+</html>
